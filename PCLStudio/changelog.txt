@@ -1,0 +1,17 @@
+1.5.4 Mar 17, 2014 Leo <a14331990@163.com>
+Ensure cloud and mesh is not empty before processing.
+Statusbar fixes.
+
+1.5.3 Mar 13, 2014 Leo <a14331990@163.com>
+Many memory fixes, mainly qt window destroy on close,
+the pclvisualizer case in still not resolved yet. 
+
+1.5.2 Mar 09, 2014 Leo <a14331990@163.com>
+Added help and changelog.
+
+1.5.1 Mar 07, 2014 Leo <a14331990@163.com>
+Added statusbar to show pointcloud and mesh names.
+
+1.5 Mar 06, 2014 Leo <a14331990@163.com>
+First usable release.
+

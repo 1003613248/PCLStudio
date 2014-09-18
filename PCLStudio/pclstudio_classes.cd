@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Greedy_Triangulation_Dialog" Collapsed="true">
+    <Position X="4.5" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABgIAAAAAgAAgIggAAAAAAAAIAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>greedy_triangulation_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poisson_Reconstruction_Dialog" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAgAAAAAAAAABAAAAACAAgAIAAAAAAAAA=</HashCode>
+      <FileName>poisson_reconstruction_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HelpViewer" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABEAAAAAAgQCAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>helpviewer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistical_Filter_Dialog" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAkAAAAAAAgAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>statistical_filter_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCLStudio" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEwwYZMLIWSAgYAggCQxAAAAQAAgygegAeICAgAUAGo=</HashCode>
+      <FileName>pclstudio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLS_Resampling_Dialog" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAIQAAAAAAgA=</HashCode>
+      <FileName>mls_resampling_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Greedy_Triangulation_Dialog" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAwAMAAAAAEAAAAAAABEAAAQAIgAAgAAAQSgARAA=</HashCode>
+      <FileName>GeneratedFiles\ui_greedy_triangulation_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_MLS_Resampling_Dialog" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAEAAAAAAAAAAAAAAAAAAQAIgAAAAAEAAgQAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_mls_resampling_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Poisson_Reconstruction_Dialog" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAkAAAgAAAAAAAAAAAAAAwCIgAAAAAAAAAAAAI=</HashCode>
+      <FileName>GeneratedFiles\ui_poisson_reconstruction_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Statistical_Filter_Dialog" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAgAAQAKgAAAAAEAAAAAAg=</HashCode>
+      <FileName>GeneratedFiles\ui_statistical_filter_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Greedy_Triangulation_Dialog" Collapsed="true">
+    <Position X="4.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_greedy_triangulation_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MLS_Resampling_Dialog" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_mls_resampling_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Poisson_Reconstruction_Dialog" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_poisson_reconstruction_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Statistical_Filter_Dialog" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_statistical_filter_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

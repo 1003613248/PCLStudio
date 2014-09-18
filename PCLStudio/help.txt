@@ -1,0 +1,7 @@
+Simple PCL GUI using Qt.
+
+Features:
+Filtering
+Resampling
+Reconstruction
+Visualization

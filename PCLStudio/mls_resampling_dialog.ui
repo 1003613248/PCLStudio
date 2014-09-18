@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MLS_Resampling_Dialog</class>
+ <widget class="QDialog" name="MLS_Resampling_Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>314</width>
+    <height>178</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MLS Resampling Setup</string>
+  </property>
+  <property name="toolTip">
+   <string>Setup MLS Resampling</string>
+  </property>
+  <widget class="QLabel" name="label_PolynomialOrder">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>30</y>
+     <width>101</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>order of the polynomial to be fit</string>
+   </property>
+   <property name="statusTip">
+    <string/>
+   </property>
+   <property name="text">
+    <string>PolynomialOrder</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_SearchRadius">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>30</y>
+     <width>81</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>sphere radius for determining k-neighbors</string>
+   </property>
+   <property name="statusTip">
+    <string/>
+   </property>
+   <property name="text">
+    <string>SearchRadius</string>
+   </property>
+  </widget>
+  <widget class="QDoubleSpinBox" name="doubleSpinBox_SearchRadius">
+   <property name="geometry">
+    <rect>
+     <x>181</x>
+     <y>50</y>
+     <width>51</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>sphere radius for determining k-neighbors</string>
+   </property>
+   <property name="value">
+    <double>0.000000000000000</double>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_Cancel">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>120</y>
+     <width>61</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>Cancel</string>
+   </property>
+   <property name="text">
+    <string>Cancel</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_OK">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>120</y>
+     <width>61</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>OK</string>
+   </property>
+   <property name="text">
+    <string>OK</string>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="spinBox_PolynomialOrder">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>50</y>
+     <width>41</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>order of the polynomial to be fit</string>
+   </property>
+   <property name="value">
+    <number>0</number>
+   </property>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>spinBox_PolynomialOrder</tabstop>
+  <tabstop>doubleSpinBox_SearchRadius</tabstop>
+  <tabstop>pushButton_OK</tabstop>
+  <tabstop>pushButton_Cancel</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
